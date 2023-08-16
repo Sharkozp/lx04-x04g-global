@@ -5,9 +5,11 @@ firmware from the Chinese version to the global one.
 
 I have managed to do this now; the only thing left is to update the serial number to match the sticker.
 
+### Proof:
 
-You can support me or Ukraine's victory over russia.
+[![Xiaomi LX04 with Global version](http://img.youtube.com/vi/zh51vfXJ504/0.jpg)](http://www.youtube.com/watch?v=zh51vfXJ504 "Xiaomi LX04 with Global version")
+
+#### You can support me or Ukraine's victory over russia.
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-blue.svg)](https://www.buymeacoffee.com/sharkozp)
-
 [![United24](https://img.shields.io/badge/United24-Donate-blue)](https://u24.gov.ua/)
